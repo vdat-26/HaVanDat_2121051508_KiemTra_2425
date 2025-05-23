@@ -1,0 +1,14 @@
+C:\Users\vdat7\OneDrive\Tài liệu\HaVanDat_2121051508_KiemTra_2425\KiemTra\bin\Debug\net9.0\KiemTra.exe
+C:\Users\vdat7\OneDrive\Tài liệu\HaVanDat_2121051508_KiemTra_2425\KiemTra\bin\Debug\net9.0\KiemTra.deps.json
+C:\Users\vdat7\OneDrive\Tài liệu\HaVanDat_2121051508_KiemTra_2425\KiemTra\bin\Debug\net9.0\KiemTra.runtimeconfig.json
+C:\Users\vdat7\OneDrive\Tài liệu\HaVanDat_2121051508_KiemTra_2425\KiemTra\bin\Debug\net9.0\KiemTra.dll
+C:\Users\vdat7\OneDrive\Tài liệu\HaVanDat_2121051508_KiemTra_2425\KiemTra\bin\Debug\net9.0\KiemTra.pdb
+C:\Users\vdat7\OneDrive\Tài liệu\HaVanDat_2121051508_KiemTra_2425\KiemTra\obj\Debug\net9.0\KiemTra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vdat7\OneDrive\Tài liệu\HaVanDat_2121051508_KiemTra_2425\KiemTra\obj\Debug\net9.0\KiemTra.AssemblyInfoInputs.cache
+C:\Users\vdat7\OneDrive\Tài liệu\HaVanDat_2121051508_KiemTra_2425\KiemTra\obj\Debug\net9.0\KiemTra.AssemblyInfo.cs
+C:\Users\vdat7\OneDrive\Tài liệu\HaVanDat_2121051508_KiemTra_2425\KiemTra\obj\Debug\net9.0\KiemTra.csproj.CoreCompileInputs.cache
+C:\Users\vdat7\OneDrive\Tài liệu\HaVanDat_2121051508_KiemTra_2425\KiemTra\obj\Debug\net9.0\KiemTra.dll
+C:\Users\vdat7\OneDrive\Tài liệu\HaVanDat_2121051508_KiemTra_2425\KiemTra\obj\Debug\net9.0\refint\KiemTra.dll
+C:\Users\vdat7\OneDrive\Tài liệu\HaVanDat_2121051508_KiemTra_2425\KiemTra\obj\Debug\net9.0\KiemTra.pdb
+C:\Users\vdat7\OneDrive\Tài liệu\HaVanDat_2121051508_KiemTra_2425\KiemTra\obj\Debug\net9.0\KiemTra.genruntimeconfig.cache
+C:\Users\vdat7\OneDrive\Tài liệu\HaVanDat_2121051508_KiemTra_2425\KiemTra\obj\Debug\net9.0\ref\KiemTra.dll
